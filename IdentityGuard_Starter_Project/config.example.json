@@ -1,0 +1,8 @@
+{
+  "imap_host": "imap.gmail.com",
+  "imap_port": 993,
+  "username": "your_email@gmail.com",
+  "password": "your_app_password_here",
+  "provider": "gmail",
+  "max_messages": 50
+}
